@@ -34,6 +34,23 @@
         "address": "熊本県熊本市東区月出3丁目1-100　熊本県立大学",
         "timestamp": "2024-12-08T10:59:06.571Z"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.7589282,
+          32.2064635
+        ]
+      },
+      "properties": {
+        "name": "熊本県球磨地域振興局の雨庭",
+        "description": "隣接する建物の屋根に降った雨だけでなく、敷地内の道路に降った雨の一部も貯留・浸透させる県内初の構造。",
+        "image_url": "https://raw.githubusercontent.com/xbridge-dev/ameniwa/main/images/1733655691865_0002%20-%20Tomoaki%20Nishitani.png",
+        "address": "熊本県人吉市西間下町８６－１",
+        "timestamp": "2024-12-08T11:01:35.566Z"
+      }
     }
   ]
 }
