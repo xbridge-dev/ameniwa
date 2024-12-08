@@ -2,10 +2,10 @@
   "layers": [
     {
       "type": "Layer",
-      "id": "osintech-ameniwa",
+      "id": "ameniwa-partnership",
       "title": "雨庭パートナーシップ",
       "iconUrl": "",
-      "url": "https://github.com/xbridge-dev/ameniwa/blob/9ef6893025ca5512612c850a1146d178830e8e70/2/3/1.geojson",
+      "url": "https://github.com/xbridge-dev/ameniwa/blob/9ef6893025ca5512612c850a1146d178830e8e70/{z}/{x}/{y}.geojson",
       "subdomains": "",
       "attribution": "雨庭",
       "errorTileUrl": "",
