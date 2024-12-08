@@ -17,6 +17,23 @@
         "address": "東京都中央区霞が関1-1-1",
         "timestamp": "2024-12-08T04:55:17.115Z"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.7655969,
+          32.8056313
+        ]
+      },
+      "properties": {
+        "name": "熊本県立大学の雨庭",
+        "description": "熊本県立大学のグランドに設置した約35㎡（窪地部分は約30㎡）の窪地型の雨庭です。隣接する体育館の屋根に降る雨水を流し入れています。川の流れを模した形状で、川石や熊本の在来植生を用いています。豪雨時に流入量に対して半分程度の流出を抑制することを目標に計画しました。ここでは、流入出量の計測も行っています。",
+        "image_url": "https://raw.githubusercontent.com/xbridge-dev/ameniwa/main/images/1733655542767_0001%20-%20Tomoaki%20Nishitani.png",
+        "address": "熊本県熊本市東区月出3丁目1-100　熊本県立大学",
+        "timestamp": "2024-12-08T10:59:06.571Z"
+      }
     }
   ]
 }
