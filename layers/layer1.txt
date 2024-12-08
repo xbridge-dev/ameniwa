@@ -11,6 +11,8 @@
       "errorTileUrl": "",
       "cocotile": false,
       "legendUrl": "",
+      "maxZoom": 24,
+      "maxNativeZoom": 2,
       "html": "全国Q地図に、雨庭の位置を表示するレイヤーを加えます。"
     }
   ]
