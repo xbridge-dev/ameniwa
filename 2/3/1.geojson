@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7550463,
+          35.6764339
+        ]
+      },
+      "properties": {
+        "name": "テスト１",
+        "description": "霞が関（日比谷公園）",
+        "image_url": "https://raw.githubusercontent.com/xbridge-dev/ameniwa/main/images/1733633715242_DSC_43543 - オシンテッククロスブリッジ.jpg",
+        "address": "東京都中央区霞が関1-1-1",
+        "timestamp": "2024-12-08T04:55:17.115Z"
+      }
+    }
+  ]
+}
