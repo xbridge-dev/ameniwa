@@ -4,7 +4,7 @@
   },
   geojsonOptions: {
     pointToLayer: function (feature, latlng) {
-      var iconUrl = "https://github.com/xbridge-dev/ameniwa/blob/6de1c4c3565219cd4e778f92439e3159f8f69f3c/assets/ameniwa20.jpg";
+      var iconUrl = "https://raw.githubusercontent.com/xbridge-dev/ameniwa/refs/heads/main/assets/ameniwa20.jpg";
       var iconSize = [20, 20];    // アイコンのサイズ
       var iconAnchor = [10, 18];  // 指示点の位置（左上が基準）
 
@@ -12,7 +12,7 @@
 
       switch (z) {
         case 16:
-          iconUrl = "https://github.com/xbridge-dev/ameniwa/blob/6de1c4c3565219cd4e778f92439e3159f8f69f3c/assets/ameniwa27.jpg";
+          iconUrl = "https://raw.githubusercontent.com/xbridge-dev/ameniwa/refs/heads/main/assets/ameniwa27.jpg";
           iconAnchor[0] = 12;
           iconAnchor[1] = 24;
           iconSize[0] = 27;
@@ -20,7 +20,7 @@
           break;
         case 17:
         case 18:
-          iconUrl = "https://github.com/xbridge-dev/ameniwa/blob/6de1c4c3565219cd4e778f92439e3159f8f69f3c/assets/ameniwa50.jpg";
+          iconUrl = "https://raw.githubusercontent.com/xbridge-dev/ameniwa/refs/heads/main/assets/ameniwa50.jpg";
           iconAnchor[0] = 22;
           iconAnchor[1] = 45;
           iconSize[0] = 50;
