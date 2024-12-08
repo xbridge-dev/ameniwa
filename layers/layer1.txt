@@ -1,0 +1,17 @@
+{
+  "layers": [
+    {
+      "type": "Layer",
+      "id": "osintech-ameniwa",
+      "title": "雨庭パートナーシップ",
+      "iconUrl": "",
+      "url": "https://github.com/xbridge-dev/ameniwa/blob/9ef6893025ca5512612c850a1146d178830e8e70/2/3/1.geojson",
+      "subdomains": "",
+      "attribution": "雨庭",
+      "errorTileUrl": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": "全国Q地図に、雨庭の位置を表示するレイヤーを加えます。"
+    }
+  ]
+}
