@@ -1,6 +1,6 @@
 {
   options: {
-    attribution: '自然災害伝承碑', minZoom: 2, maxNativeZoom: 18, maxZoom: 18
+    attribution: '雨庭', minZoom: 2, maxNativeZoom: 2, maxZoom: 24
   },
   geojsonOptions: {
     pointToLayer: function (feature, latlng) {
