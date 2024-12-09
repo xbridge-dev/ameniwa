@@ -5,7 +5,7 @@
       "id": "ameniwa-partnership",
       "title": "雨庭パートナーシップ",
       "iconUrl": "",
-      "url": "https://raw.githubusercontent.com/xbridge-dev/ameniwa/refs/heads/main/{y}/{z}/{x}.geojson",
+      "url": "https://raw.githubusercontent.com/xbridge-dev/ameniwa/refs/heads/main/{z}/{x}/{y}.geojson",
       "subdomains": "",
       "attribution": "雨庭",
       "errorTileUrl": "",
