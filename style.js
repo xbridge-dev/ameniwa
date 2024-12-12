@@ -44,6 +44,8 @@
       var props = {};
       props["name"] = "雨庭名";
       props["description"] = "説明";
+      props["address"] = "所在地";
+      props["created_at"] = "掲載日";
 
       var s = "<table>";
       var r = "";
@@ -55,12 +57,14 @@
           }
           else if (name == "image_url") {
             r = feature.properties[name];
-
           }
+          else if (name == "created_at") {
+            s += "<tr><td style='vertical-align:top; font-size:14px; color:#000000; min-width:60px; width:60px;'>" + props[name] + ":</td>"
+                + "<td style='font-size:14px; color:#000000;'>" + feature.properties[name].slice(10) + "</td></tr>";
           else {
             if (props["name"]) {
               s += "<tr><td style='vertical-align:top; font-size:14px; color:#000000; min-width:60px; width:60px;'>" + props[name] + ":</td>"
-                + "<td style='font-size:14px; color:#000000;width:160px;'>" + feature.properties[name] + "</td></tr>";
+                + "<td style='font-size:14px; color:#000000;'>" + feature.properties[name] + "</td></tr>";
               // s += "<tr><td style='vertical-align:top; font-size:14px; color:#000000; width:100px;'>" + props[name] + ":</td>"
               //     + "<td style='font-size:14px; color:#000000;width:250px;'>" + feature.properties[name] + "</td></tr>";
             }
