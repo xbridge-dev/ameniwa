@@ -43,9 +43,9 @@
     onEachFeature: function(feature, layer) {
       var props = {};
       props["name"] = "雨庭名";
-      props["description"] = "説明";
-      props["address"] = "所在地";
-      props["timestamp"] = "掲載日";
+      // props["description"] = "説明";
+      // props["address"] = "所在地";
+      // props["timestamp"] = "掲載日";
 
       var s = "<table>";
       var r = "";
