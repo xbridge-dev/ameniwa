@@ -47,7 +47,7 @@
       props["address"] = "所在地";
       props["timestamp"] = "掲載日";
 
-      var s = "<table width='220'>";
+      var s = "<table>";
       var r = "";
       var iw, ih;
       for (name in feature.properties) {
@@ -109,7 +109,7 @@
 
       }
 
-      layer.bindPopup(s, { maxWidth: 220 });
+      layer.bindPopup(s, { });
 
     },
     createTableData: function(feature) {
