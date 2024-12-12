@@ -69,6 +69,14 @@
               // s += "<tr><td style='vertical-align:top; font-size:14px; color:#000000; width:100px;'>" + props[name] + ":</td>"
               //     + "<td style='font-size:14px; color:#000000;width:250px;'>" + feature.properties[name] + "</td></tr>";
             }
+            else{
+              if (name == "ImageWidth"){
+                iw = parseInt(feature.properties[name]);
+              }
+              if (name == "ImageHeight"){
+                ih = parseInt(feature.properties[name]);
+              }
+            }
           }
         }
       }
