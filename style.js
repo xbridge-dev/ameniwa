@@ -88,11 +88,9 @@
       if (r != "") {
 
         s += "<tr>"
-          + "<td style='font-size:14px; color:#000000;text-align:center;' colspan=2 >" + "<div><a onclick=\"dslorethumbnail_click('" + s + "')\" href='javascript:void(0)'><img style='border: 2px solid #00f' src='" + r
+          + "<td style='font-size:14px; color:#000000;text-align:center;' colspan=2 >" + "<div><a onclick=\"dslorethumbnail_click('" + tb
+          + "')\" href='javascript:void(0)'><img style='border: 2px solid #00f' src='" + r
           + "' alt='" + r;
-        // s += "<tr>" 
-        // + "<td style='font-size:14px; color:#000000;text-align:center;' colspan=2 >" + "<div style='width:200px;'><a onclick=\"dslorethumbnail_click('" + tb + "')\" href='javascript:void(0)'><img style='border: 2px solid #00f' src='" + r
-        // + "' alt='" + r; 
         if (iw > ih) {
           var iih = ih * 200 / iw;
           iih = Math.floor(iih);
