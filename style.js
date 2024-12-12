@@ -59,8 +59,11 @@
             r = feature.properties[name];
           }
           else if (name == "timestamp") {
+            var year = new Date(feature.properties[name]).getFullYear();
+            var month = new Date(feature.properties[name]).getMonth() + 1;
+            var date = new Date(feature.properties[name]).getDate();
             s += "<tr><td style='vertical-align:top; font-size:14px; color:#000000; min-width:60px; width:60px;'>" + props[name] + ":</td>"
-                + "<td style='font-size:14px; color:#000000;'>" + feature.properties[name].slice(0, 10) + "</td></tr>";
+                + "<td style='font-size:14px; color:#000000;'>" + year + "年" + month + "月" + date + "日" + "</td></tr>";
           }
           else {
             if (props["name"]) {
