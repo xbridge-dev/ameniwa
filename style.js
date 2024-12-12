@@ -45,7 +45,7 @@
       props["name"] = "雨庭名";
       props["description"] = "説明";
       props["address"] = "所在地";
-      props["created_at"] = "掲載日";
+      props["timestamp"] = "掲載日";
 
       var s = "<table>";
       var r = "";
@@ -58,7 +58,7 @@
           else if (name == "image_url") {
             r = feature.properties[name];
           }
-          else if (name == "created_at") {
+          else if (name == "timestamp") {
             s += "<tr><td style='vertical-align:top; font-size:14px; color:#000000; min-width:60px; width:60px;'>" + props[name] + ":</td>"
                 + "<td style='font-size:14px; color:#000000;'>" + feature.properties[name].slice(10) + "</td></tr>";
           else {
@@ -68,18 +68,8 @@
               // s += "<tr><td style='vertical-align:top; font-size:14px; color:#000000; width:100px;'>" + props[name] + ":</td>"
               //     + "<td style='font-size:14px; color:#000000;width:250px;'>" + feature.properties[name] + "</td></tr>";
             }
-            else {
-              if (name == "ImageWidth") {
-                iw = parseInt(feature.properties[name]);
-              }
-              if (name == "ImageHeight") {
-                ih = parseInt(feature.properties[name]);
-              }
-            }
-
           }
         }
-
       }
       var tb = this.createTableData(feature);
 
