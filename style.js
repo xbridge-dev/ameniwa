@@ -56,7 +56,9 @@
             s += "<tr><th colspan='2' style='font-size:14px; font-weight:bold; color:#000000; text-align:center;'>" + feature.properties[name] + "</th></tr>";
           }
           else if (name == "image_url") {
-            r = feature.properties[name];
+            if (feature.properties[name]) {
+              r = feature.properties[name];
+            }
           }
           else if (name == "timestamp") {
             var year = new Date(feature.properties[name]).getFullYear();
@@ -103,9 +105,8 @@
         }
         s += "</img></a></div>" + "</td></tr>";
         s += "<tr><td style='text-align:center; font-size:11px; color:#0000ff;' colspan=2>詳細説明は画像をクリック</td>"
-        s += "</table>";
-
       }
+      s += "</table>";
 
       layer.bindPopup(s, { });
 
