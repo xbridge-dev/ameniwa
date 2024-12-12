@@ -13,7 +13,7 @@
       "legendUrl": "",
       "maxZoom": 24,
       "maxNativeZoom": 2,
-      "style":"https://raw.githubusercontent.com/xbridge-dev/ameniwa/refs/heads/main/assets/style.js",
+      "style":"https://raw.githubusercontent.com/xbridge-dev/ameniwa/refs/heads/main/style.js",
       "html": "全国Q地図に、雨庭の位置を表示するレイヤーを加えます。"
     }
   ]
