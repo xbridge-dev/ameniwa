@@ -60,7 +60,7 @@
           }
           else if (name == "timestamp") {
             s += "<tr><td style='vertical-align:top; font-size:14px; color:#000000; min-width:60px; width:60px;'>" + props[name] + ":</td>"
-                + "<td style='font-size:14px; color:#000000;'>" + feature.properties[name].slice(10) + "</td></tr>";
+                + "<td style='font-size:14px; color:#000000;'>" + feature.properties[name].slice(0, 10) + "</td></tr>";
           }
           else {
             if (props["name"]) {
