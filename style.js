@@ -47,7 +47,7 @@
       props["address"] = "所在地";
       props["timestamp"] = "掲載日";
 
-      var s = "<table>";
+      var s = "<table width='220'>";
       var r = "";
       var iw, ih;
       for (name in feature.properties) {
