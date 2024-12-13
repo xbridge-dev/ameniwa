@@ -153,6 +153,23 @@
         "address": "熊本県人吉市上漆田町4170-5 番地先",
         "timestamp": "2024-12-13T07:07:44.455Z"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.7551337,
+          32.7712357
+        ]
+      },
+      "properties": {
+        "name": "江津湖の前の「雨庭 江津湖」",
+        "description": "目の前の江津湖をモチーフにした雨庭です。\n球磨川流域の方々が、氾濫しても球磨川を慈しむように、私も江津湖の景色が大好きです。\n雨庭を作ってからは、庭いじりが犬の散歩後の日課なりました。",
+        "image_url": "https://raw.githubusercontent.com/xbridge-dev/ameniwa/main/images/1734073842237_0009-01%20-%20Tomoaki%20Nishitani.png",
+        "address": "熊本市東区広木町",
+        "timestamp": "2024-12-13T07:10:54.538Z"
+      }
     }
   ]
 }
