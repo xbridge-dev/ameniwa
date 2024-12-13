@@ -289,6 +289,23 @@
         "address": "熊本県球磨郡あさぎり町上北310 熊本県立南稜高等学校",
         "timestamp": "2024-12-13T07:21:24.606Z"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.8963275,
+          32.2327063
+        ]
+      },
+      "properties": {
+        "name": "透水性保水型改良土（トース土）を用いた雨庭",
+        "description": "グランドの表面から流れてくる雨を受け止める雨庭です。立体網目状の団粒構造に改良した土（トース土）を用いており、雨水の透水性と保水性を高めています。この工法は、現場の土を改良することも可能で、土のリサイクルと性能向上が可能です。",
+        "image_url": "https://raw.githubusercontent.com/xbridge-dev/ameniwa/main/images/1734074535386_0017-01%20-%20Tomoaki%20Nishitani.png",
+        "address": "熊本県球磨郡あさぎり町上北310 熊本県立南稜高等学校",
+        "timestamp": "2024-12-13T07:22:17.512Z"
+      }
     }
   ]
 }
