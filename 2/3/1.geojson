@@ -68,6 +68,23 @@
         "address": "熊本県熊本市北区龍田5丁目7-11",
         "timestamp": "2024-12-13T07:01:44.195Z"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.7911957,
+          32.8644754
+        ]
+      },
+      "properties": {
+        "name": "肥後銀行菊陽グラウンド雨庭",
+        "description": "駐車場に溜まる雨水をグラウンドとの間の植栽を活用し製作。70㎝掘り下げて透水シートで側面を覆い、リサイクルコンクリート片を敷き詰めました。",
+        "image_url": "https://raw.githubusercontent.com/xbridge-dev/ameniwa/main/images/1734073398130_0004-01%20-%20Tomoaki%20Nishitani.png",
+        "address": "熊本県菊池郡菊陽町津久礼3190",
+        "timestamp": "2024-12-13T07:03:21.100Z"
+      }
     }
   ]
 }
