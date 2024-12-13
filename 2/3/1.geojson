@@ -51,6 +51,23 @@
         "address": "熊本県人吉市西間下町８６－１",
         "timestamp": "2024-12-08T11:01:35.566Z"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.7567086,
+          32.8402101
+        ]
+      },
+      "properties": {
+        "name": "島谷邸の雨庭",
+        "description": "屋根（17㎡）に降った雨を樋から水路に導き、広さ2㎡・深さ20cmの小さな雨庭に流し入れている。",
+        "image_url": "https://raw.githubusercontent.com/xbridge-dev/ameniwa/main/images/1734073293346_0003-02%20-%20Tomoaki%20Nishitani.png",
+        "address": "熊本県熊本市北区龍田5丁目7-11",
+        "timestamp": "2024-12-13T07:01:44.195Z"
+      }
     }
   ]
 }
