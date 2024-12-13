@@ -102,6 +102,23 @@
         "address": "熊本県合志市合生4275番地",
         "timestamp": "2024-12-13T07:04:33.554Z"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.8951281,
+          32.2347405
+        ]
+      },
+      "properties": {
+        "name": "球磨モンのレインガーデン",
+        "description": "店舗エントランスの屋根に降った雨水を、樋を切り回してプランターに入れ、プランター内に雨水を貯留させるとともに、プランター下部の小さな穴から少しずつ流出させることで、排水菅や河川への流出を遅らせる。",
+        "image_url": "https://raw.githubusercontent.com/xbridge-dev/ameniwa/main/images/1734073524409_0006-00%20-%20Tomoaki%20Nishitani.png",
+        "address": "熊本県あさぎり町免田東1706-7",
+        "timestamp": "2024-12-13T07:05:36.304Z"
+      }
     }
   ]
 }
