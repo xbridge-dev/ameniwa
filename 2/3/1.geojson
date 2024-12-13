@@ -136,6 +136,23 @@
         "address": "熊本県球磨郡あさぎり町上北",
         "timestamp": "2024-12-13T07:06:47.137Z"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.8010289,
+          32.1676492
+        ]
+      },
+      "properties": {
+        "name": "熊本県道交差点部の雨庭",
+        "description": "国道221 号と県道上漆田東間下線の交差点の隅切部（植樹帯）を活用。道路に降った雨の一部を集水し、貯留・浸透させる。道路区域内での設置は県内初。",
+        "image_url": "https://raw.githubusercontent.com/xbridge-dev/ameniwa/main/images/1734073661318_0008-01%20-%20Tomoaki%20Nishitani.png",
+        "address": "熊本県人吉市上漆田町4170-5 番地先",
+        "timestamp": "2024-12-13T07:07:44.455Z"
+      }
     }
   ]
 }
