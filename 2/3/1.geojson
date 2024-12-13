@@ -306,6 +306,23 @@
         "address": "熊本県球磨郡あさぎり町上北310 熊本県立南稜高等学校",
         "timestamp": "2024-12-13T07:22:17.512Z"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.8963275,
+          32.2327063
+        ]
+      },
+      "properties": {
+        "name": "庭霧",
+        "description": "熊本県産の砂利と景石を利用した雨庭。川霧のような幻想的な空間を表現しています。底部には浸透性を高めるための下穴、自社製の堆肥を用いた保水層を設けています。グランドの表面から流れてくる雨をこの雨庭で受け止めます。",
+        "image_url": "https://raw.githubusercontent.com/xbridge-dev/ameniwa/main/images/1734074612239_0018-02%20-%20Tomoaki%20Nishitani.png",
+        "address": "熊本県球磨郡あさぎり町上北310 熊本県立南稜高等学校",
+        "timestamp": "2024-12-13T07:23:42.345Z"
+      }
     }
   ]
 }
