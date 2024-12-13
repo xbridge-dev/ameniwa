@@ -221,6 +221,23 @@
         "address": "熊本県山鹿市平山5255-2",
         "timestamp": "2024-12-13T07:16:19.181Z"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.14104,
+          33.07836
+        ]
+      },
+      "properties": {
+        "name": "奥黒川温泉 里の湯和らく 車路脇水路及ひ通路水路",
+        "description": "駐車場は透水性舗装とし、透水しなかった分の雨水は浸透性の自然風水路に排水し、処理しており、隣地の斜面の雨水も一緒に排水しています。又、客室の通路の横にも庭の通路側に水路を配置し、屋根の雨だれを直接受けて排水しています。",
+        "image_url": "https://raw.githubusercontent.com/xbridge-dev/ameniwa/main/images/1734074264077_0013-01%20-%20Tomoaki%20Nishitani.png",
+        "address": "熊本県阿蘇郡南小国町黒川6351-1",
+        "timestamp": "2024-12-13T07:17:52.836Z"
+      }
     }
   ]
 }
