@@ -204,6 +204,23 @@
         "address": "熊本県人吉市下林町2647-2",
         "timestamp": "2024-12-13T07:14:23.142Z"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.6573478,
+          33.0537553
+        ]
+      },
+      "properties": {
+        "name": "平山温泉　湯の蔵　遊歩道水路",
+        "description": "客室棟間の遊歩道に沿って、庭園があります。各棟の屋根の雨水や、通路の雨水を遊歩道沿いの水路に排水し、浸透させながら、オーバーした水を通路側溝へ接続しています。",
+        "image_url": "https://raw.githubusercontent.com/xbridge-dev/ameniwa/main/images/1734074167343_0012-01%20-%20Tomoaki%20Nishitani.png",
+        "address": "熊本県山鹿市平山5255-2",
+        "timestamp": "2024-12-13T07:16:19.181Z"
+      }
     }
   ]
 }
