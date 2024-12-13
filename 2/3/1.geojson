@@ -170,6 +170,23 @@
         "address": "熊本市東区広木町",
         "timestamp": "2024-12-13T07:10:54.538Z"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.9358757,
+          32.264022
+        ]
+      },
+      "properties": {
+        "name": "多良木町役場雨庭",
+        "description": "多良木町役場の正面玄関横に設置した約16㎡の雨庭です。\nこの雨庭には多良木町役場に降った雨が雨どいをとおり流れ込む仕組みになっています。",
+        "image_url": "https://raw.githubusercontent.com/xbridge-dev/ameniwa/main/images/1734073927159_0010-03%20-%20Tomoaki%20Nishitani.png",
+        "address": "熊本県球磨郡多良木町大字多良木1648番地",
+        "timestamp": "2024-12-13T07:12:18.054Z"
+      }
     }
   ]
 }
