@@ -85,6 +85,23 @@
         "address": "熊本県菊池郡菊陽町津久礼3190",
         "timestamp": "2024-12-13T07:03:21.100Z"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.7606365,
+          32.9002885
+        ]
+      },
+      "properties": {
+        "name": "百花園ゴルフ場1番ホール",
+        "description": "バンカー型雨庭。通常ゴルフ場のバンカーは、パイプを埋設し側溝に流しているが、今回は100％地下浸透を目指し作成した。",
+        "image_url": "https://raw.githubusercontent.com/xbridge-dev/ameniwa/main/images/1734073467709_0005-01%20-%20Tomoaki%20Nishitani.png",
+        "address": "熊本県合志市合生4275番地",
+        "timestamp": "2024-12-13T07:04:33.554Z"
+      }
     }
   ]
 }
