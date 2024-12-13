@@ -238,6 +238,23 @@
         "address": "熊本県阿蘇郡南小国町黒川6351-1",
         "timestamp": "2024-12-13T07:17:52.836Z"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.8963275,
+          32.2327063
+        ]
+      },
+      "properties": {
+        "name": "ハイドロスタッフあめにわ",
+        "description": "グランドに降った雨水をＵ字側溝で集水し、地下に埋設した再生プラスチック製雨水浸透槽に流入させて、地中に浸透させる構造です。",
+        "image_url": "https://raw.githubusercontent.com/xbridge-dev/ameniwa/main/images/1734074335851_0014-04%20-%20Tomoaki%20Nishitani.png",
+        "address": "熊本県球磨郡あさぎり町上北310 熊本県立南稜高等学校",
+        "timestamp": "2024-12-13T07:19:02.820Z"
+      }
     }
   ]
 }
