@@ -187,6 +187,23 @@
         "address": "熊本県球磨郡多良木町大字多良木1648番地",
         "timestamp": "2024-12-13T07:12:18.054Z"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.7321133,
+          32.2157452
+        ]
+      },
+      "properties": {
+        "name": "人吉温泉しらさぎ荘　正面玄関前庭園",
+        "description": "旅館の正面玄関前の庭園内に川砂利を敷込んだ小川を設け、景観の向上と大雨時の雨水浸透を兼ねている。本館屋根の北側樋を小川に接続し排水させている。",
+        "image_url": "https://raw.githubusercontent.com/xbridge-dev/ameniwa/main/images/1734074051315_0011-03%20-%20Tomoaki%20Nishitani.png",
+        "address": "熊本県人吉市下林町2647-2",
+        "timestamp": "2024-12-13T07:14:23.142Z"
+      }
     }
   ]
 }
